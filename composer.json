@@ -1,0 +1,13 @@
+{
+    "name": "desiderio/miguel",
+    "description": "Group 3 - Bootstrap Design",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Miguel Desiderio",
+            "email": "miguel@desiderio.dev"
+        }
+    ],
+    "require": {}
+}
